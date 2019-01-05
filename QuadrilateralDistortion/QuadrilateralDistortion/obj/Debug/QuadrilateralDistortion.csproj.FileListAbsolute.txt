@@ -1,0 +1,6 @@
+C:\Users\E5570\Desktop\QuadrilateralDistortion\QuadrilateralDistortion\bin\Debug\QuadrilateralDistortion.dll
+C:\Users\E5570\Desktop\QuadrilateralDistortion\QuadrilateralDistortion\bin\Debug\QuadrilateralDistortion.pdb
+C:\Users\E5570\Desktop\QuadrilateralDistortion\QuadrilateralDistortion\obj\Debug\QuadrilateralDistortion.csprojResolveAssemblyReference.cache
+C:\Users\E5570\Desktop\QuadrilateralDistortion\QuadrilateralDistortion\obj\Debug\QuadrilateralDistortion.csproj.CoreCompileInputs.cache
+C:\Users\E5570\Desktop\QuadrilateralDistortion\QuadrilateralDistortion\obj\Debug\QuadrilateralDistortion.dll
+C:\Users\E5570\Desktop\QuadrilateralDistortion\QuadrilateralDistortion\obj\Debug\QuadrilateralDistortion.pdb

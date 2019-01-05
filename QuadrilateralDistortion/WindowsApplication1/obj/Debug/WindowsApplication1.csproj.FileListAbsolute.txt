@@ -1,0 +1,12 @@
+C:\Users\E5570\Desktop\QuadrilateralDistortion\WindowsApplication1\bin\Debug\DistortSample.exe
+C:\Users\E5570\Desktop\QuadrilateralDistortion\WindowsApplication1\bin\Debug\DistortSample.pdb
+C:\Users\E5570\Desktop\QuadrilateralDistortion\WindowsApplication1\bin\Debug\QuadrilateralDistortion.dll
+C:\Users\E5570\Desktop\QuadrilateralDistortion\WindowsApplication1\bin\Debug\QuadrilateralDistortion.pdb
+C:\Users\E5570\Desktop\QuadrilateralDistortion\WindowsApplication1\obj\Debug\WindowsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\E5570\Desktop\QuadrilateralDistortion\WindowsApplication1\obj\Debug\WindowsApplication1.frmSample.resources
+C:\Users\E5570\Desktop\QuadrilateralDistortion\WindowsApplication1\obj\Debug\DistortSample.Properties.Resources.resources
+C:\Users\E5570\Desktop\QuadrilateralDistortion\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.cache
+C:\Users\E5570\Desktop\QuadrilateralDistortion\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\E5570\Desktop\QuadrilateralDistortion\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.CopyComplete
+C:\Users\E5570\Desktop\QuadrilateralDistortion\WindowsApplication1\obj\Debug\DistortSample.exe
+C:\Users\E5570\Desktop\QuadrilateralDistortion\WindowsApplication1\obj\Debug\DistortSample.pdb
